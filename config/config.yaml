@@ -1,0 +1,5 @@
+num_top_words: 1000
+num_of_topics: 10
+num_of_word_per_topic: 15
+time_period: 100
+lda_iteration: 50
